@@ -23,3 +23,13 @@ Text amb rotació. [''volta''](p3.gif)
 
 Textures aplicades al moviment de [''full de paper''](p4.gif)
 
+## p5
+
+Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és no''](p5.gif)
+
+## p7
+
+[''Cuideu-vos''](p7.gif)
+
+
+
