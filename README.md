@@ -5,3 +5,9 @@ Rodet en text. [''Quan tu vas ella torna''](p1.gif)
 
 ## p1.v2
 Rodet en text. [''No le des más vueltas''](p1v2.gif)
+
+## p2
+Text extruit amb forma dona. [''Llebeig''](p2.gif)
+
+## p2v2
+Text extruit amb forma dona. [''Llebeig''](p2v2.gif)
