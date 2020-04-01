@@ -31,5 +31,8 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 
 [''Cuideu-vos gif''](p7.gif) - [''Cuideu-vos mp4''](p7.mp4)
 
+## p8
+
+[''Coronavirus festival jpg''](p8.jpg)
 
 
