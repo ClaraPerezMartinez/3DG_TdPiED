@@ -1,7 +1,7 @@
 # 3DG_TdPiED
 ## p1
 
-Rodet en text. [''Quan tu vas ella torna''](p1.gif) - (p1.mp4)
+Rodet en text. [''Quan tu vas ella torna''](p1.gif) - [''Quan tu vas ella torna''](p1.mp4)
 
 ## p1.v2
 
