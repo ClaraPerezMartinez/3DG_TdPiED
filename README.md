@@ -35,4 +35,7 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 
 [''Coronavirus festival jpg''](p8.jpg)
 
+## p9
+
+[''Bodegon jpg''](p9.jpg)
 
