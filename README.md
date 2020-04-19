@@ -39,3 +39,7 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 
 [''Bodegon jpg''](p9.jpg)
 
+## p10
+
+[''Lissitzky_El_Proun.jpg''](p10.jpg)
+
