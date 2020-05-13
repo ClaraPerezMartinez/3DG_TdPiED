@@ -43,3 +43,6 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és n
 
 [''Lissitzky_El_Proun.jpg''](p10.jpg)
 
+## p11
+
+[''Monigote3D.jpg''](p11.jpg)
